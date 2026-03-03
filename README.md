@@ -46,7 +46,7 @@ Instructions:
 Commit all staged files:
 git commit -m "Initial commit with index, about, and contact pages"
 git status
-Question: Are there any modified or untracked files?
+Question: Are there any modified or untracked files? **No there aren't**
 
 Step 3: Modifying Tracked Files
 Objective: Understand modified vs unmodified files.
