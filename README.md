@@ -26,7 +26,7 @@ contact.txt (write: 'Email me at example@example.com')
 Run:
 git init
 git status
-Question: Are these files tracked or untracked?
+Question: Are these files tracked or untracked? **They are untracked**
 
 Step 1: Staging Files
 Objective: Learn how to stage files and the difference between staged and unstaged changes.
